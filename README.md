@@ -26,7 +26,7 @@ git clone https://github.com/juiceru228/testweb;<br />
 python3 -m venv .venv;<br />
 source .venv/bin/activate;<br />
 pip install django;<br />
-python3 testweb/savchenko/manage.py;<br />
+python3 testweb/savchenko/manage.py runserver;<br />
 
 далее перейти в браузере по странице:<br />
 http://127.0.0.1:8000/
