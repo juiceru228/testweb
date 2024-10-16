@@ -16,7 +16,9 @@ login: root<br />
 password: rootPass<br />
 
 # Требования:
-Windows и любая unix-подобная операционные системы(bsd, gnu/linux, macos).<br />
+Windows и любые unix-подобные операционные системы(bsd, gnu/linux, macos).<br />
+Тестировалось на дистрибутивах gnu/linux debian trixie и gentoo.
+
 Python 3.x<br />
 Django 3.x или выше<br />
 
