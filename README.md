@@ -22,10 +22,10 @@ Django 3.x или выше
 
 # Установка
 В пустой папке написать следующие команды:
-git clone https://github.com/juiceru228/testweb
-python -m venv .venv
-source .venv/bin/activate
-python testweb/savchenko/manage.py
+git clone https://github.com/juiceru228/testweb;
+python -m venv .venv;
+source .venv/bin/activate;
+python testweb/savchenko/manage.py;
 
 далее перейти в браузере по странице:
 http://127.0.0.1:8000/
