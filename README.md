@@ -16,12 +16,12 @@ login: root<br />
 password: rootPass<br />
 
 # Требования:
-Windows и любая unix-подобная.<br />
+Windows и любая unix-подобная операционные системы(bsd, gnu/linux, macos).<br />
 Python 3.x<br />
 Django 3.x или выше<br />
 
 # Установка
-В пустой папке написать следующие команды:<br />
+В пустой папке в терминале(powershell, bash) написать следующие команды:<br />
 git clone https://github.com/juiceru228/testweb;<br />
 python3 -m venv .venv;<br />
 source .venv/bin/activate;<br />
