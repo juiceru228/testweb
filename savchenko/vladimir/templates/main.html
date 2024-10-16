@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<title>Main page.</title>
+		</head>
+		<body>
+			My beautiful main page.
+			<br>
+			WELL COME!!!
+			<br>
+			('3')
+			<h1>REDIRECT</h1>
+			 	<button onclick="window.location.href='{% url 'name' %}'">to name</button>
+ 		   	<br>
+    		<button onclick="window.location.href='{% url 'group' %}'">to group</button>
+		    <br>			
+		    <button onclick="window.location.href='{% url 'age' %}'">to age</button>
+    		<br>
+		    <button onclick="window.location.href='{% url 'common' %}'">to common</button>	
+		   	<br>
+				<button onclick="window.location.href='{% url 'admin:index' %}'">to admin</button>
+		</body>
+</html>
