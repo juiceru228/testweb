@@ -23,7 +23,7 @@ Python 3.x<br />
 Django 3.x или выше<br />
 
 # Установка
-В пустой папке в терминале(powershell, bash) написать следующие команды:<br />
+В пустой папке в терминале(bash) написать следующие команды:<br />
 git clone https://github.com/juiceru228/testweb;<br />
 python3 -m venv .venv;<br />
 source .venv/bin/activate;<br />
