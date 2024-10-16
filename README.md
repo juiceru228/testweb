@@ -25,6 +25,7 @@ Django 3.x или выше<br />
 git clone https://github.com/juiceru228/testweb;<br />
 python -m venv .venv;<br />
 source .venv/bin/activate;<br />
+pip install django;<br />
 python testweb/savchenko/manage.py;<br />
 
 далее перейти в браузере по странице:<br />
