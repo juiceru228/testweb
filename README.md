@@ -24,11 +24,20 @@ Django 3.x или выше<br />
 
 # Установка
 В пустой папке в терминале(bash) написать следующие команды:<br />
-git clone https://github.com/juiceru228/testweb;<br />
-python3 -m venv .venv;<br />
-source .venv/bin/activate;<br />
-pip install django;<br />
-python3 testweb/savchenko/manage.py runserver;<br />
-
+```console
+git clone https://github.com/juiceru228/testweb
+```
+```console
+python3 -m venv .venv
+```
+```console
+source .venv/bin/activate
+```
+```console
+pip install django
+```
+```console
+python3 testweb/savchenko/manage.py runserver
+```
 далее перейти в браузере по странице:<br />
 http://127.0.0.1:8000/
