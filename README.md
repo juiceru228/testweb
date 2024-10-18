@@ -12,8 +12,8 @@
 - **admin**: по пути "/admin", админ панель.<br />
 
  # Доступ к админ панели:
-login: root<br />
-password: rootPass<br />
+- login: root<br />
+- password: rootPass<br />
 
 # Требования:
 - Windows и любые unix-подобные операционные системы(bsd, gnu/linux, macos).<br />
