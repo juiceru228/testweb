@@ -16,11 +16,10 @@ login: root<br />
 password: rootPass<br />
 
 # Требования:
-Windows и любые unix-подобные операционные системы(bsd, gnu/linux, macos).<br />
+- Windows и любые unix-подобные операционные системы(bsd, gnu/linux, macos).<br />
 Тестировалось на дистрибутивах gnu/linux debian trixie и gentoo.
-
-Python 3.x<br />
-Django 3.x или выше<br />
+- Python 3.x<br />
+- Django 3.x или выше<br />
 
 # Установка
 В пустой папке в терминале(bash) написать следующие команды:<br />
